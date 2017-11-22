@@ -1,0 +1,2 @@
+# mistcarousel
+Fancy jQuery slider
